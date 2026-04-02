@@ -6,7 +6,7 @@ Advanced Packet Sniffer + ARP Spoofing Detector (Using Scapy)
 
 Description:
 This project is a Python-based network security tool designed to capture
-network packets in real time and detect ARP Spoofing (ARP Poisoning) attacks.
+network packets in real time and detect ARP Spoofing (ARP Poisoning) attacks. 
 ARP spoofing is a common Man-in-the-Middle (MITM) technique used by attackers
 to intercept or manipulate network traffic on local networks.
 
